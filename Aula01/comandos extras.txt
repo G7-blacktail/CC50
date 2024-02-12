@@ -1,3 +1,34 @@
 help50 antes do comando de copilação para apresentar amigavelmente sujestões para resolver erros
 style50 para identificar se a escrita não está em um estilo dificil de ler
 check50 checa se seu código atende a requisitos específicos
+
+cmd comands:
+
+    ls - list (listar pasta atual)
+    rm - remove (remover arquivo)
+    rmdir - remove pastas
+    mv - rename (renomeia arquivo)
+    mvdir - renomear ou mover pastas
+    mkdir - make diretory (criar diretório ou pasta)
+    mv <arquivo> <diretório>/ - Move arquivo para diretório
+    mv <arquivo> .. - move o arquivo a um nível acima na arvore. obs.: creio que isso deve funcionar junto com ../.. para subir dois níveis
+    cd - Change directory - (muda o diretório)
+    cp - copy - (copiar)
+    make <script>.c - copilador será executado para o arquivo desejado
+
+tipos de dados em C
+
+    booleano - bool
+    caracter - char
+    ponto flutuante = double e float
+    inteiro - int
+    longo - long
+
+formatações
+
+    %c
+    %d
+    %s
+    %f
+    %i
+    %li
