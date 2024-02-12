@@ -1,0 +1,3 @@
+help50 antes do comando de copilação para apresentar amigavelmente sujestões para resolver erros
+style50 para identificar se a escrita não está em um estilo dificil de ler
+check50 checa se seu código atende a requisitos específicos
